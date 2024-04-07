@@ -1,4 +1,20 @@
-<h2 align="left">Hello World!!</h2>
+<h1 align="left">Hey 👋 What's up?</h1>
+
+###
+
+<p align="left">My name is Yasir Akhlaque and I'm a Future Software Engineer</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning WD<br>🎯 Goals: <br>🎲 Fun fact: creating bugs is my hobby 😜</p>
+
+###
+
+<h2 align="left">I code with VS Code</h2>
 
 ###
 
