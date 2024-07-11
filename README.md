@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">My name is Yasir Akhlaque and I'm a Future Software Developer</p>
+<p align="left">My name is Yasir Akhlaque and I'm working on myself to be a good Software Developer</p>
 
 ###
 
