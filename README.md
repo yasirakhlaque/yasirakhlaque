@@ -15,7 +15,7 @@
 
 ###
 
-<h2 align="left">I code with VS Code</h2>
+<h2 align="left">I code with Visual Studio Code</h2>
 
 ###
 
