@@ -84,6 +84,14 @@
   <img alt="GitHub Profile Image" src="/profile-3d-contrib/profile-green-animate.svg">
 </picture>
 
+<div align="center">
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yasirakhlaque&theme=2077">
+  <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yasirakhlaque&theme=github">
+<img alt="GitHub Profile Image" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yasirakhlaque&theme=2077">
+</picture>
+ </div>
+
 <!---
 yasirakhlaque/yasirakhlaque is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
