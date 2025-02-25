@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Web Development<br>🎯 Goals : Be the best  <br>🎲 Fun fact : creating bugs is my hobby 😜</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 Learning Web Development<br>🎯 Goals : Be the best  <br>🎲 Fun fact : creating bugs is my hobby 😜</p>
 
 ###
 
