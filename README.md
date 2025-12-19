@@ -3,7 +3,7 @@
 
 ### 
 
-<p align="left">Hello world! 👋 I'm Yasir Akhlaque, a pre-final year student at Institute of Engineering and Technology, Khandari, Agra from Dr. Bhimrao Ambedkar University, passionate about coding and exploring the endless possibilities of technology. 🚀 Currently diving into Next.js and TypeScript with Tailwind CSS, with a keen interest in web development, open-source contributions and Web Design .Excited to connect, collaborate, and contribute to the tech community! 💻</p>
+<p align="left">Hello world! 👋 I'm Yasir Akhlaque, a pre-final year student at Institute of Engineering and Technology, Khandari, Agra from Dr. Bhimrao Ambedkar University, passionate about coding and exploring the endless possibilities of technology. 🚀 Currently diving into Next.js and TypeScript with Tailwind CSS, with a keen interest in web development, open-source contributions and Web Design. Excited to connect, collaborate, and contribute to the tech community! 💻</p>
 
 ###
 
