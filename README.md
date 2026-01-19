@@ -3,7 +3,21 @@
 
 ### 
 
-<p align="left">Hello world! 👋 I'm Yasir Akhlaque, a pre-final year student at Institute of Engineering and Technology, Khandari, Agra from Dr. Bhimrao Ambedkar University, passionate about coding and exploring the endless possibilities of technology. 🚀 Currently diving into Next.js and TypeScript with Tailwind CSS, with a keen interest in web development, open-source contributions and Web Design. Excited to connect, collaborate, and contribute to the tech community! 💻</p>
+<p align="left">Hello world! 👋 I'm Yasir Akhlaque, I’m a Frontend Developer who loves building fast, scalable and user-focused web applications.  
+I work mainly with React.js, Next.js, TypeScript, Prisma, and modern backend tools.
+
+💡 What I’m good at:
+• Building complete full-stack apps (Auth, CRUD, dashboards)  
+• Implementing secure authentication (NextAuth, credentials, Google OAuth)  
+• Creating responsive UIs with reusable React/Next components  
+• Working with REST APIs and databases (MySQL, MongoDB)
+
+🌱 Open Source:
+Contributor at SWoC & Hacktoberfest (2024–25).  
+Actively contributing to beginner-friendly and real-world repositories.
+
+🎯 Current goal:
+Building strong real-world projects and looking for impactful frontend/full-stack internship opportunities.💻</p>
 
 ###
 
