@@ -6,7 +6,7 @@
 <p align="left">Hello world! 👋 I'm Yasir Akhlaque, I’m a Frontend Developer who loves building fast, scalable and user-focused web applications.  
 I work mainly with React.js, Next.js, TypeScript, Prisma, and modern backend tools.
 
-💡 What I’m good at:
+<h3>💡 What I’m good at: </h3>
 • Building complete full-stack apps (Auth, CRUD, dashboards)  
 • Implementing secure authentication (NextAuth, credentials, Google OAuth)  
 • Creating responsive UIs with reusable React/Next components  
