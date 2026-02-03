@@ -82,7 +82,7 @@ Building strong real-world projects and looking for impactful frontend/full-stac
 <a href="https://twitter.com/Yasirakhlaque">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40" alt="twitter logo"  />
 </a>
- <a href="https://www.instagram.com/yasbytes/">
+ <a href="https://www.instagram.com/">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
  </a>
 </div>
