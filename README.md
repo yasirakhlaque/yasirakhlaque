@@ -3,7 +3,7 @@
 
 ### 
 
-<p align="left">Hello world! 👋 I'm Yasir Akhlaque, I’m a Frontend Developer who loves building fast, scalable and user-focused web applications.  
+<p align="left">Hello world! 👋 I'm Yasir Akhlaque, I’m a Developer who loves building fast, scalable and user-focused web applications.  
 I work mainly with React.js, Next.js, TypeScript, Prisma, and modern backend tools.
 
 <h3>💡 What I’m good at: </h3>
