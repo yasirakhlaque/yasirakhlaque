@@ -1,69 +1,64 @@
    <!--this is a heading-->
-<h1 align="left">Hey 👋 What's up?</h1> 
+# Hello, I'm Yasir 👋
 
-### 
+I am a Full Stack Developer and a final-year Computer Science student. I have a keen interest in making applications that are fast, helpful, and intuitive to use.
 
-<p align="left">Hello world! 👋 I'm Yasir Akhlaque, I’m a Developer who loves building fast, scalable and user-focused web applications.  
-I work mainly with React.js, Next.js, TypeScript, Prisma, and modern backend tools.
+While frontend development is my core area of expertise, I take pleasure in developing applications in both frontend and backend environments. Solving problems, bringing ideas to life, and making the users' experiences better is something that brings joy to me while working on applications.
 
-<h3>💡 What I’m good at: </h3>
-• Building complete full-stack apps (Auth, CRUD, dashboards)  
-• Implementing secure authentication (NextAuth, credentials, Google OAuth)  
-• Creating responsive UIs with reusable React/Next components  
-• Working with REST APIs and databases (MySQL, MongoDB)
+I always tend to stay updated about emerging technologies and enjoy gaining experience through learning and building. Be it through contributions in open-source repositories or making my own side projects, I keep trying hard to be the best at what I do.
 
-🌱 Open Source:
-Contributor at SWoC & Hacktoberfest (2024–25).  
-Actively contributing to beginner-friendly and real-world repositories.
+### Open Source
 
-🎯 Current goal:
-Building strong real-world projects and looking for impactful frontend/full-stack internship opportunities.💻</p>
+Contributed to Social Winter of Code (SWoC) 2025 and Hacktoberfest 2025.
 
-###
+Being involved in open-source projects taught me how real-world software is made, teamwork amongst developers, how to review code, maintain big code repositories, etc. Working on open source projects was a very rewarding experience for me and motivated me to contribute more to the community.
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since 2023<br>📚 Learning Web Development<br>🎯 Goals : Be the best  <br>🎲 Fun fact : creating bugs is my hobby 😜</p>
-
-###
-
-<h2 align="left">Languages and Tools I Use:</h2>
-
-###
+### Technologies I Use
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" title="Next.js" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" title="Tailwind CSS" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" height="40" alt="Prisma" title="Prisma" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img src="https://raw.githubusercontent.com/colinhacks/zod/master/logo.svg" height="40" alt="Zod" title="Zod" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" title="MongoDB" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" title="Express.js" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" title="GitHub" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" title="Figma" />
 </div>
 
-###
+### What I Love to Build
+
+* Full-stack applications
+* Modern & responsive User Interfaces
+* Tools for the Developers
+* Community-oriented platforms
+* Applications that fix actual problems
+
+### Currently
+
+* Working and improving my personal projects
+* Learning new technologies and practices
+* Searching for opportunities for internships as a frontend/fullstack developer
+* Meeting other developers and contributing to the open-source communities
 
 ###
 
@@ -73,23 +68,16 @@ Building strong real-world projects and looking for impactful frontend/full-stac
   <img src="https://streak-stats.demolab.com?user=yasirakhlaque&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-###
+### Let's Connect
 
-<div align="left">
-<a href="https://www.linkedin.com/in/yasir-akhlaque-9a896b302/">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo">
-</a>
-<a href="https://twitter.com/Yasirakhlaque">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40" alt="twitter logo"  />
-</a>
- <a href="https://www.instagram.com/">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
- </a>
-</div>
+I'm always happy to chat about tech, open-source projects, or new ideas!
+
+*   **Portfolio:** [yasirdev.in](https://yasirdev.in)
+*   **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/yasirakhlaque)
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://profile-counter.glitch.me/yasirakhlaque/count.svg?"  />
 </div>
 
@@ -97,7 +85,7 @@ Building strong real-world projects and looking for impactful frontend/full-stac
 
 <div align="center">
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=yasirakhlaque&theme=dark" alt="Layout with last medium posts"  />
-</div>
+</div> -->
 
 ###
 
