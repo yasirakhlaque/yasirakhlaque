@@ -53,6 +53,13 @@ Being involved in open-source projects taught me how real-world software is made
 * Community-oriented platforms
 * Applications that fix actual problems
 
+### What I have Builded
+
+* IET-Connect : [Link](https://iet-connect.online/)
+* Job Application Tracker : [Link](https://job-application-tracker-mauve-pi.vercel.app/)
+* Luxe-Ecommerce : [Link](https://next-ecom-alpha-hazel.vercel.app/)
+* Shopeaze : [Link](https://shopeaze-self.vercel.app/)
+
 ### Currently
 
 * Working and improving my personal projects
