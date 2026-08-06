@@ -1,19 +1,11 @@
-   <!--this is a heading-->
-# Hello, I'm Yasir 👋
+# Yasir Akhlaque 🦇
+> *"It's not who I am underneath, but what I build that defines me."*
 
-I am a Full Stack Developer and a final-year Computer Science student. I have a keen interest in making applications that are fast, helpful, and intuitive to use.
+There's a lot of dysfunctional interfaces out there in the web space. I am here to engineer them a better existence.
 
-While frontend development is my core area of expertise, I take pleasure in developing applications in both frontend and backend environments. Solving problems, bringing ideas to life, and making the users' experiences better is something that brings joy to me while working on applications.
+I am a full-stack developer who enjoys lurking in the depths of the backend and being in the limelight on the frontend. Nothing but pure architectural design with modern UI.
 
-I always tend to stay updated about emerging technologies and enjoy gaining experience through learning and building. Be it through contributions in open-source repositories or making my own side projects, I keep trying hard to be the best at what I do.
-
-### Open Source
-
-Contributed to Social Winter of Code (SWoC) 2025 and Hacktoberfest 2025.
-
-Being involved in open-source projects taught me how real-world software is made, teamwork amongst developers, how to review code, maintain big code repositories, etc. Working on open source projects was a very rewarding experience for me and motivated me to contribute more to the community.
-
-### Technologies I Use
+### 🛠️ The Utility Belt
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
@@ -45,62 +37,33 @@ Being involved in open-source projects taught me how real-world software is made
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" title="Figma" />
 </div>
 
-### What I Love to Build
+### 📂 The Case Files
+*Actual problems, tangible solutions.*
 
-* Full-stack applications
-* Modern & responsive User Interfaces
-* Tools for the Developers
-* Community-oriented platforms
-* Applications that fix actual problems
+* **[IET-Connect](https://iet-connect.online/)** – A solution driven platform built for solving academic roadblocks.
+* **[Job Application Tracker](https://job-application-tracker-mauve-pi.vercel.app/)** – An attempt at organizing the madness of the job search process.
+* **[Luxe-Ecommerce](https://next-ecom-alpha-hazel.vercel.app/)** – High performance and modern digital store front.
 
-### What I have Builded
+### 📍 Directives in Effect
 
-* IET-Connect : [Link](https://iet-connect.online/)
-* Job Application Tracker : [Link](https://job-application-tracker-mauve-pi.vercel.app/)
-* Luxe-Ecommerce : [Link](https://next-ecom-alpha-hazel.vercel.app/)
-* Shopeaze : [Link](https://shopeaze-self.vercel.app/)
+* Developing scalable web applications as a Next.js Developer at EnhanceAI.
+* Pursuing my BE in Computer Science along with production grade coding.
+* Keeping the open-source community neat and tidy (SWoC '25 & Hacktoberfest '25 Veteran, 40+ PRs merged).
 
-### Currently
-
-* Working and improving my personal projects
-* Learning new technologies and practices
-* Searching for opportunities for internships as a frontend/fullstack developer
-* Meeting other developers and contributing to the open-source communities
-
-###
+### 📊 The Batcomputer
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=yasirakhlaque&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yasirakhlaque&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=yasirakhlaque&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-### Let's Connect
+### 📡 Signal The Bat
+Got a complex problem to solve, an idea to launch or just want to talk tech, send up the signal.
 
-I'm always happy to chat about tech, open-source projects, or new ideas!
-
-*   **Portfolio:** [yasirdev.in](https://yasirdev.in)
-*   **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/yasirakhlaque)
-
-###
-
-<!-- <div align="center">
-  <img src="https://profile-counter.glitch.me/yasirakhlaque/count.svg?"  />
-</div>
+*   **Headquarters:** [yasirdev.in](https://yasirdev.in)
+*   **Comms Link:** [LinkedIn](https://www.linkedin.com/in/yasirakhlaque)
 
 ###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=yasirakhlaque&theme=dark" alt="Layout with last medium posts"  />
-</div> -->
-
-###
-
-## My GitHub Contribution Calendar in 3D 🌟
+## Activity Grid 🌟
 ![3D Contribution Calendar](profile-3d-contrib/profile-night-green.svg)
-<!---
-yasirakhlaque/yasirakhlaque is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
-[![An image of @yasirakhlaque's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yasirakhlaque)](https://holopin.io/@yasirakhlaque)
+[![Holopin badges](https://holopin.me/yasirakhlaque)](https://holopin.io/@yasirakhlaque)
