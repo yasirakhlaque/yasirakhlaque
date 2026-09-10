@@ -20,6 +20,8 @@ I am a full-stack developer who enjoys lurking in the depths of the backend and 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" height="40" alt="Prisma" title="Prisma" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trpc/trpc-original.svg" height="40" alt="tRPC" title="tRPC" />
+  <img width="12" />
   <img src="https://raw.githubusercontent.com/colinhacks/zod/master/logo.svg" height="40" alt="Zod" title="Zod" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL" />
@@ -41,12 +43,12 @@ I am a full-stack developer who enjoys lurking in the depths of the backend and 
 *Actual problems, tangible solutions.*
 
 * **[IET-Connect](https://iet-connect.online/)** – A solution driven platform built for solving academic roadblocks.
-* **[Job Application Tracker](https://job-application-tracker-mauve-pi.vercel.app/)** – An attempt at organizing the madness of the job search process.
-* **[Luxe-Ecommerce](https://next-ecom-alpha-hazel.vercel.app/)** – High performance and modern digital store front.
+* **[Job Application Tracker](https://jobtracker.yasirdev.in/)** – An attempt at organizing the madness of the job search process.
+* **[Shopeaze](https://shopeaze.yasirdev.in/)** – A billing and inventory management system built in a 36-hour hackathon for small shop owners.
 
 ### 📍 Directives in Effect
 
-* Developing scalable web applications as a Next.js Developer at EnhanceAI.
+* Developing scalable web applications as a Full Stack Developer at *EnhanceAI*.
 * Pursuing my BE in Computer Science along with production grade coding.
 * Keeping the open-source community neat and tidy (SWoC '25 & Hacktoberfest '25 Veteran, 40+ PRs merged).
 
