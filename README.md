@@ -1,11 +1,12 @@
-# Yasir Akhlaque 🦇
+# Yasir Akhlaque <img width="48" height="48" alt="giphy" src="https://github.com/user-attachments/assets/645aa714-2093-4515-816f-45014d67b0c8" />
+
 > *"It's not who I am underneath, but what I build that defines me."*
 
 There's a lot of dysfunctional interfaces out there in the web space. I am here to engineer them a better existence.
 
 I am a full-stack developer who enjoys lurking in the depths of the backend and being in the limelight on the frontend. Nothing but pure architectural design with modern UI.
 
-### 🛠️ The Utility Belt
+### The Utility Belt
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
@@ -39,26 +40,26 @@ I am a full-stack developer who enjoys lurking in the depths of the backend and 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" title="Figma" />
 </div>
 
-### 📂 The Case Files
+### The Case Files
 *Actual problems, tangible solutions.*
 
 * **[IET-Connect](https://iet-connect.online/)** – A solution driven platform built for solving academic roadblocks.
 * **[Job Application Tracker](https://jobtracker.yasirdev.in/)** – An attempt at organizing the madness of the job search process.
 * **[Shopeaze](https://shopeaze.yasirdev.in/)** – A billing and inventory management system built in a 36-hour hackathon for small shop owners.
 
-### 📍 Directives in Effect
+### Directives in Effect
 
 * Developing scalable web applications as a Full Stack Developer at *EnhanceAI*.
 * Pursuing my BE in Computer Science along with production grade coding.
 * Keeping the open-source community neat and tidy (SWoC '25 & Hacktoberfest '25 Veteran, 40+ PRs merged).
 
-### 📊 The Batcomputer
+### The Batcomputer
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=yasirakhlaque&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-### 📡 Signal The Bat
+### Signal The Bat
 Got a complex problem to solve, an idea to launch or just want to talk tech, send up the signal.
 
 *   **Headquarters:** [yasirdev.in](https://yasirdev.in)
